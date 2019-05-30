@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<svg width="48" height="48" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+
+ <g class="layer">
+  <title>Layer 1</title>
+  <circle cx="23.758554" cy="24.063077" fill="#007fff" id="svg_20" r="22.688629" stroke="#00007f" stroke-linecap="round" stroke-linejoin="round" stroke-width="0"/>
+  <ellipse cx="23.939487" cy="24.107289" fill="#ffffff" id="svg_19" rx="19.481901" ry="23.094745" stroke="#00007f" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0"/>
+  <path d="m13.674463,30.934133l0,-14.031266l0,0c0,-6.027198 4.755177,-10.913208 10.620985,-10.913208l0,0l0,0c2.81686,0 5.518349,1.149781 7.510172,3.196405c1.991821,2.046623 3.110813,4.822441 3.110813,7.716804l-0.030809,1.663359l-0.892336,0.017119l-2.950786,-0.022144l-2.121384,0.000696l-0.025994,-0.985792l-0.047824,-0.673238c0,-2.583084 -2.037934,-4.677088 -4.551849,-4.677088l0,0l0,0c-2.513919,0 -4.551851,2.094004 -4.551851,4.677088l0,14.031266l-6.069135,0z" fill="#00007f" id="svg_31" stroke="#00007f" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null"/>
+  <path d="m13.768255,45.693633l0,-14.031266l0,0c0,-6.027198 4.755177,-10.913208 10.620985,-10.913208l0,0l0,0c2.81686,0 5.518349,1.149781 7.510172,3.196405c1.991821,2.046623 3.110813,4.822441 3.110813,7.716804l-0.030809,1.663359l-0.892336,0.017119l-2.950786,-0.022144l-2.121384,0.000696l-0.025994,-0.985792l-0.047824,-0.673238c0,-2.583084 -2.037934,-4.677088 -4.551849,-4.677088l0,0l0,0c-2.513919,0 -4.551851,2.094004 -4.551851,4.677088l0,14.031266l-6.069135,0z" fill="#00007f" id="svg_34" stroke="#00007f" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" transform="rotate(180, 24.389, 33.2212)"/>
+  <line fill="none" id="svg_36" stroke="#00007f" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="7" transform="rotate(-90, 28.5653, 23.7233)" x1="28.565247" x2="28.565247" y1="16.773336" y2="30.673335"/>
+  <line fill="none" id="svg_39" stroke="#00007f" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="7" x1="16.716506" x2="16.716506" y1="5.641546" y2="18.115519"/>
+ </g>
+</svg>
